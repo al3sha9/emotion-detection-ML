@@ -6,7 +6,7 @@ This project demonstrates an **Emotion Detection** system that:
 
 ## 📌 Features
 - Loads and preprocesses a text dataset (`train.txt`)
-- Vectorizes text using **TF-IDF (Term Frequency - Inverse Document Frequency)**
+- Vectorizes text
 - Trains a **Logistic Regression** model
 - Evaluates performance using accuracy, classification report, and confusion matrix
 - Visualizes results using **Seaborn** and **Matplotlib**
